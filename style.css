@@ -5,7 +5,7 @@
   overflow: hidden;
 }
 
-.tab-list {
+.tab-container {
   position: relative;
   white-space: nowrap;
   overflow: hidden;
